@@ -1,4 +1,4 @@
-G'day , I'm Bhargav Naidu👋<br>
+<h1>G'day , I'm Bhargav Naidu👋</h1><br><hr>
 I'm a student from india.<br>
 🔭 I’m currently developing skills in full stack development.👀<br>
 My Skill Set👇<br>
