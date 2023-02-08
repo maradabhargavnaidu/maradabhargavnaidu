@@ -19,7 +19,9 @@
 <h3>Data Base</h3>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <h3>Stay Connected</h3>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/bhargav-naidu-365435218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/maradabhargav?t=YooKx5GNR4t_JIb6SKzBvA&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://instagram.com/maradabhargavnaidu?igshid=YzgyMTM2MGM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--
 **BhArgAvNaiD/BhArgAvNaiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
