@@ -34,12 +34,12 @@ I'm a <b style="color:blue;">Full Stack Web Developer</b>. I worked as a <b> Web
 ## Projects
 
 <h2>College Portal</h2>
-<p>I developed a web application which helps the college admins to manage the admissions and expenses. They can track their monthly and yearly expenses of college.</p>
+<p>College Portal is an all-in-one college management system designed to help educational institutions efficiently track admissions and manage expenses. With College Portal, colleges can easily monitor their monthly and yearly expenses, ensuring better financial management and streamlined operations.</p>
 <a href="https://cllgportal.netlify.app">Live Link</a>
 <a href="https://github.com/maradabhargavnaidu/vasavi-dashboard">Code Link</a>
 
 <h2>Yaatra - Trip Planning Website</h2>
-<p>I developed a web application which helps the users to plan their trips according to their interest, featuring in providing information about famous tourist places and guides</p>
+<p>Yaatra is a premier trip planning website that allows users to plan their trips based on their interests. Whether you're looking for information about famous tourist attractions or need expert guides, Yaatra has you covered.</p>
 <a href = "https://yaatra.onrender.com">Live Link</a>
 <a href="https://github.com/maradabhargavnaidu/yaatra">Code Link</a>
 
