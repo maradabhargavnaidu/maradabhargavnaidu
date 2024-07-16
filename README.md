@@ -1,21 +1,28 @@
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h2>G'day , I'm Bhargav Naidu👋</h2>
-👨‍💻I'm a student from india.<br>
-🔭 I’m currently developing skills in full stack development.👀<br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Marada Bhargav Naidu </h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhargav-naidu/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=vikas-rushi&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
+  <a href="https://leetcode.com/u/BHASAH1829/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=0xVikasRushi&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
+</p>
+
+## About Me:
+
+I'm a Full Stack Web Developer. I worked as a Web Developer Intern at SkyGoal Innova Technologies Pvt Ltd. I am currently learning Data Structures and Algorithms, and I have solved over 600 problems on LeetCode with a contest rating of 1525.
+
 <h3>My Skill Set👇</h3>   
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
           <h3>Languages Known</h3>
-<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-<a><img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"></a>
+<code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+<code><img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"></code>
                     <h3>FrameWorks</h3>
-<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+<code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
 <h3>Data Base</h3>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <h3>Stay Connected</h3>
@@ -36,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
