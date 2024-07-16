@@ -9,7 +9,7 @@
 
 ## About Me:
 
-I'm a <b style="color:blue;">Full Stack Web Developer</b>. I worked as a <b> Web Developer Intern</b> at <b>SkyGoal Innova Technologies Pvt Ltd</b>. I am currently learning <b>Data Structures and Algorithms</b>, and I have solved over <b>600</b> problems on LeetCode with a <b>contest rating of 1525</b>.Know about more at <a href="https://maradabhargavnaidu.netlify.app">Portfolio</a>
+I'm a <b style="color:blue;">Full Stack Web Developer</b>. I worked as a <b> Web Developer Intern</b> at <b>SkyGoal Innova Technologies Pvt Ltd</b>. I am currently learning <b>Data Structures and Algorithms</b>, and I have solved over <b>600</b> problems on LeetCode with a <b>contest rating of 1525</b>. Know about me more at <a href="https://maradabhargavnaidu.netlify.app">Portfolio</a>
 
 ## Languages and Tools:
 
@@ -43,6 +43,14 @@ I'm a <b style="color:blue;">Full Stack Web Developer</b>. I worked as a <b> Web
 <a href = "https://yaatra.onrender.com">Live Link</a>
 <a href="https://github.com/maradabhargavnaidu/yaatra">Code Link</a>
 
+## Ongoing Projects
+
+<h2>RideNow - Instant Journeys, Every Time</h2>
+<p>RideNow is a comprehensive bike rental application designed to simplify the process of renting a bike. Whether you need a ride for a short trip or a longer journey, RideNow connects you with a variety of bikes available for rent. Additionally, if you own a bike, you can list it on RideNow and earn money by renting it out to others.</p>
+<p>Note : Website is still under Construction.</p>
+<a href="https://ridenow.netlify.app">Live Link</a>
+<a href="https://github.com/maradabhargavnaidu/RideNow-frontend">Frontend Code</a>
+<a href="https://github.com/maradabhargavnaidu/RideNow-backend">Backend Code</a>
 <!--
 **BhArgAvNaiD/BhArgAvNaiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
