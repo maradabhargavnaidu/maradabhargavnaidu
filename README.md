@@ -11,7 +11,8 @@
 
 I'm a <b>Full Stack Web Developer</b>. I worked as a <b> Web Developer Intern</b> at <b>SkyGoal Innova Technologies Pvt Ltd</b>. I am currently learning <b>Data Structures and Algorithms</b>, and I have solved over <b>600</b> problems on LeetCode with a <b>contest rating of 1525</b>.
 
-<h3>My Skill Set👇</h3>   
+## Languages and Tools:
+
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
@@ -28,6 +29,13 @@ I'm a <b>Full Stack Web Developer</b>. I worked as a <b> Web Developer Intern</b
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
+
+## Projects
+
+<h2>College Portal</h2>
+<p>I developed a web application which helps the college admins to manage the admissions and expenses. They can track their monthly and yearly expenses of college.</p>
+<a href="https://cllgportal.netlify.app">Live</a>
+<a href="https://github.com/maradabhargavnaidu/vasavi-dashboard">Code</a>
 
 <!--
 **BhArgAvNaiD/BhArgAvNaiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
