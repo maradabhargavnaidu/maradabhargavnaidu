@@ -34,8 +34,13 @@ I'm a <b>Full Stack Web Developer</b>. I worked as a <b> Web Developer Intern</b
 
 <h2>College Portal</h2>
 <p>I developed a web application which helps the college admins to manage the admissions and expenses. They can track their monthly and yearly expenses of college.</p>
-<a href="https://cllgportal.netlify.app">Live</a>
-<a href="https://github.com/maradabhargavnaidu/vasavi-dashboard">Code</a>
+<a href="https://cllgportal.netlify.app">Live Link</a>
+<a href="https://github.com/maradabhargavnaidu/vasavi-dashboard">Code Link</a>
+
+<h2>Yaatra - Trip Planning Website</h2>
+<p>I developed a web application which helps the users to plan their trips according to their interest, featuring in providing information about famous tourist places and guides</p>
+<a href = "https://yaatra.onrender.com">Live Link</a>
+<a href="https://github.com/maradabhargavnaidu/yaatra">Code Link</a>
 
 <!--
 **BhArgAvNaiD/BhArgAvNaiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
