@@ -9,7 +9,7 @@
 
 ## About Me:
 
-I'm a Full Stack Web Developer. I worked as a Web Developer Intern at SkyGoal Innova Technologies Pvt Ltd. I am currently learning Data Structures and Algorithms, and I have solved over 600 problems on LeetCode with a contest rating of 1525.
+I'm a <b>Full Stack Web Developer</b>. I worked as a <b> Web Developer Intern</b> at <b>SkyGoal Innova Technologies Pvt Ltd</b>. I am currently learning <b>Data Structures and Algorithms</b>, and I have solved over <b>600</b> problems on LeetCode with a <b>contest rating of 1525</b>.
 
 <h3>My Skill Set👇</h3>   
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
