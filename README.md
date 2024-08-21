@@ -9,7 +9,7 @@
 
 ## About Me:
 
-I am a <b>Full Stack Web Developer</b> with experience as a <b>Web Developer Intern</b> at <b>SkyGoal Innova Technologies Pvt Ltd</b>. Currently, I am focused on mastering <b>Data Structures and Algorithms</b>, having solved over <b>600</b> problems on LeetCode with a contest rating of <b>1582</b>. Learn more about me at my <a href="https://maradabhargavnaidu.netlify.app">Portfolio</a>.
+I am a <b>Full Stack Web Developer</b> with experience as a <b>Web Developer Intern</b> at <b>SkyGoal Innova Technologies Pvt Ltd</b>. Currently, I am focused on mastering <b>Data Structures and Algorithms</b>, having solved over <b>650</b> problems on LeetCode with a contest rating of <b>1596</b>. Learn more about me at my <a href="https://maradabhargavnaidu.netlify.app">Portfolio</a>.
 
 ## Languages and Tools:
 
