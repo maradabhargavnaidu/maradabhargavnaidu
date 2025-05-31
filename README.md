@@ -31,8 +31,14 @@ I am a <b>Full Stack Web Developer</b> with experience as a <b>Web Developer Int
 <code><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
 
-## Projects
 
+## Ongoing Projects
+<h2>EventHub - Effortless Event Planning, Unforgettable Moments</h2>
+
+<a href="https://(https://event-hub-chi-five.vercel.app/)">Live Link</a>
+<a href="https://github.com/maradabhargavnaidu/EventHub">Code</a>
+
+## Projects
 <h2>College Portal</h2>
 <p>College Portal is an all-in-one college management system designed to help educational institutions efficiently track admissions and manage expenses. With College Portal, colleges can easily monitor their monthly and yearly expenses, ensuring better financial management and streamlined operations.</p>
 <a href="https://cllgportal.netlify.app">Live Link</a>
@@ -43,14 +49,6 @@ I am a <b>Full Stack Web Developer</b> with experience as a <b>Web Developer Int
 <a href = "https://yaatra.onrender.com">Live Link</a>
 <a href="https://github.com/maradabhargavnaidu/yaatra">Code Link</a>
 
-## Ongoing Projects
-
-<h2>RideNow - Instant Journeys, Every Time</h2>
-<p>RideNow is a comprehensive bike rental application designed to simplify the process of renting a bike. Whether you need a ride for a short trip or a longer journey, RideNow connects you with a variety of bikes available for rent. Additionally, if you own a bike, you can list it on RideNow and earn money by renting it out to others.</p>
-<p>Note : Website is still under Construction.</p>
-<a href="https://ridenow.netlify.app">Live Link</a>
-<a href="https://github.com/maradabhargavnaidu/RideNow-frontend">Frontend Code</a>
-<a href="https://github.com/maradabhargavnaidu/RideNow-backend">Backend Code</a>
 <!--
 **BhArgAvNaiD/BhArgAvNaiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
