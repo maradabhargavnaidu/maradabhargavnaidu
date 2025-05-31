@@ -35,7 +35,7 @@ I am a <b>Full Stack Web Developer</b> with experience as a <b>Web Developer Int
 ## Ongoing Projects
 <h2>EventHub - Effortless Event Planning, Unforgettable Moments</h2>
 
-<a href="https://(https://event-hub-chi-five.vercel.app/)">Live Link</a>
+<a href="https://https://event-hub-chi-five.vercel.app/">Live Link</a>
 <a href="https://github.com/maradabhargavnaidu/EventHub">Code</a>
 
 ## Projects
